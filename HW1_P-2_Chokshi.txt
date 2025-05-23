@@ -1,0 +1,55 @@
+Part 1: Set up was done with an initial 100 documents and 5 example key words are shown in "Initial100Documents.png" file.
+
+Part 2: Show in "AddingNewPageWithSearchToken.png" file
+
+Part 3: "Adding100Documents.png" then "ExampleOfSearchResults" and finally "SearchUsingToken" images shown This
+
+Part 4: "PerformanceTest.png" show this Performance
+
+
+DELIVERABLES
+A: Code posted on github with readme file 
+
+B:
+The design of the crawler is obviously based as a google search engine but a simpler version.
+Instead of being able to browse on the network though, you are limited to documents on your computer.
+The crawler is split into 3 main files. Searcher, SearchManager, and Main. Searcher is used to quickly
+look through files for their token word. SearchManager is used to organize the documes. Main is used to 
+manage the user terminal commands. Pros of this are that it is pretty simple to implement. It is very
+fast to find domcuments. You can easily manually set the tokens of domuments and chose what you are 
+searching for. Its all locally based on your laptop files. The cons however come from it being locally
+based on your laptop. There is limited functionality as you are limited to the domocuments you add. It
+is also only able to parse through text files meaning it wont work for JSON or other types of files unless
+they get converted into text. 
+
+C: ScreenShots folder includes relavent screen shots for the parts described above
+
+D: 
+    1. Index
+    Go to "PerformanceTest.png" and "PerformanceTestGraphed.png" for this
+
+    2. Search Performance
+        2.1 Search Performance in milliseconds
+            Search Term | Using 100 documents
+            ------------|----------
+            apple       | 5.993   
+            banana      | 0.408   
+            cherry      | 0.422   
+            grape       | 0.305   
+            nonexistent | 0.136    
+
+
+E: This can be seen in the "ExampleIndexEntries.png" in the screenshots folder.
+
+F:
+I thoroughly enjoyed this project as I have a strong interest in pursuing data science along with my computer since BS. 
+Learning how I can scrape data off websites is very helpful and I will be sure to use this in future projects. 
+As I started to build the main file in Lucene I realized I needed to break it up into 3 pieces that I described 
+above to make it more manageable to understand. I enjoyed learning about the indexing process. Lucene does a sort of 
+tokenization so that it not just stores documents, but it breaks them down and organizes them to help make searching fast.
+ Going through the cases for adding indexes was the easiest part. My biggest struggle came with parsing through and finding 
+ the documents that were linked with key words. Eventually I was able to get through it though, as my error was that my 
+ code was only parsing through the first index.
+
+Also to note, I went back and I added comments to my code explaining my thought process along the way and describing 
+what each part does. This solidified my knowledge of crawlers. 
