@@ -1,0 +1,1 @@
+Lucene is amazing in document number 20 — testing indexing.

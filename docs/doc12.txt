@@ -1,0 +1,1 @@
+Document 12 content: This is a sample document for testing Lucene search capabilities.

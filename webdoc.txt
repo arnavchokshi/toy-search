@@ -1,0 +1,59 @@
+Using my resume as an example
+
+
+Title: My First Web Page
+This is an example web document. Lucene should be able to find the word “squirrel” in it.
+Arnav Chokshi
+Atlanta, GA | U.S. Citizen | 678-764-5755 | achokshi38@gatech.edu | linkedin.com/in/arnav-chokshi/ | github.com/arnavchokshi
+EDUCATION
+GEORGIA INSTITUTE OF TECHNOLOGY, COLLEGE OF COMPUTING Atlanta, GA
+Bachelor of Science in Computer Science Graduation: May 2026
+• Concentrations: Information/Internetworks and Intelligence GPA: 3.96/4.00
+• Coursework: Object-Oriented Programming (Java), Data Structures and Algorithms (Java), Intro to User Interface (UI/UX),
+Robotics AI Techniques (Python ML), Computer Organization (Assembly/C), Objects and Design (Android Studio/Firebase)
+• Programs: College of Computing Study Abroad – Barcelona, Spain (Summer 2024)
+PROJECTS
+Stock Trading Bot Atlanta, GA
+Developer and Designer January 2025 - Present
+• Developed a stock trading bot using Python and Django to enable real-time stock analysis and AI-driven trading recommendations.
+• Integrated APIs from Polygon.io and Alpha Vantage for automated data extraction and transformation into Django models.
+• Built asynchronous workflows with Celery and Docker Compose, ensuring scalable and efficient handling of time series data.
+• Prototyped code in Jupyter Notebook and utilized PostgreSQL-based TimescaleDB for advanced time series queries and data storage.
+DDN Fantasy League Personal Project Atlanta, GA
+Developer and Designer March 2024 - Present
+• Full-stack developed Fantasy Football-style web application based on Desi Dance Network (DDN) using the Django framework.
+• Created front and back-end using Python, SQL, HTML, and JavaScript (jQuery) for data handling and dynamic user interactions.
+• Launched the web application using Amazon Web Servers (AWS), supporting a scalable platform for over 1000 active users.
+Spotify Wrapped App Atlanta, GA
+Full-stack Developer January 2024 – May 2024
+• Worked with a team of five designing a Spotify Android app providing users with personalized insights into their listening history.
+• Integrated backend using Spotify API for direct music insights for users, as well as Firebase for account handling and data storage.
+• Built an interactive front-end and data processing back-end using Java, Kotlin, and XML within the Android Studio framework.
+EXPERIENCE
+VIP Better Place Drone Atlanta, GA
+Automation and Control Researcher January 2024 – May 2024
+• Collaborated on an autonomous drone for the X-PRIZE competition to detect and extinguish fires across 1,000 km in 10 minutes.
+• Developed a recurrent neural network (RNN) using Python and TensorFlow to classify drone images for fire and smoke probability.
+• Trained the RNN on extensive open-source datasets, achieving 83% accuracy in detecting fires from high-speed drone footage.
+• Connected detection model with mechanical teams’ components creating an end-to-end solution to route drones to high-risk areas.
+• Co-authored white paper submission securing a grant for continued research and development of autonomous drone fire response.
+Kennesaw State University Marietta, GA
+Machine Learning Research Internship May 2022 - August 2023
+• Utilized Python, TensorFlow, and AWS to create over 50 RNN models designed to memorize sequences of musical notes.
+• Visualized large-scale data using Matplotlib and Seaborn, providing insight into the models’ performance through 1000s of epochs.
+• Analyzed RNN weight matrices’ impact on the input to the output of data, contributing to a university paper on Explainable AI.
+LEADERSHIP
+GT JADOO Atlanta, GA
+Captain August 2023 - Present
+• Overseeing team operations for 34 dancers, including choreography, logistics, and social media to compete at a national level.
+• Securing $15,000+ in sponsorships and overseeing a $30,000+ budget using Excel and Notion to ensure financial planning.
+• Applying learned skills to update DDN Fantasy website, integrating valuable data and new features to improve user experience.
+Techmentry Marietta, GA
+US Division Ambassador and Tutor March 2020 - Present
+• Spearheading advertisement and recruitment efforts as the first international ambassador, to expand the program across five states.
+• Tutored 30+ children in underdeveloped areas of India to set foundational Java programming skills and build coding literacy.
+SKILLS | INTERESTS
+Programming Skills: Python, Java, JavaScript, C, C++, SQL, Assembly, HTML/CSS
+Technical Skills: Django, TensorFlow, Jupyter Notebook, Figma, jQuery, Firebase, MySQL, Microsoft Office/Google Suite
+School Affiliations: India Club, GT Jadoo (Bollywood Fusion Dance Team), Microcontroller/Circuits Club
+Personal Interests: Dancing, Traveling, Playing Guitar, Video Games, Ultimate Frisbee, Photography, Circuit building
